@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentsTest</string>
+    <string name="label_fragment_main_default">Fragment main default</string>
+    <string name="label_fragment_secondary_default">Fragment secondary default</string>
+</resources>
